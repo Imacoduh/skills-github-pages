@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: WELCOME TO MY BLOG
+sub-title: Let's Party
 ---
 
